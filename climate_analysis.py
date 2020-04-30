@@ -1,3 +1,5 @@
+"""climate analysis tool"""
+
 import sys
 import temp_conversion
 import signal
